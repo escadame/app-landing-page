@@ -1,15 +1,14 @@
 # general configuration
-url: http://example.com
-baseurl: '/app-landing-page'
+url: http://spacewod.com
 
 # app configuration
 app:
   # an avatar or logo (optional)
-  logo: "/images/logo.png"
+  logo: "/images/logo.jpg"
   # author will appear under the avatar (optional)
-  author: "Название эппа"
+  author: "SpaceWOD"
   # tagline will appear under the title (optional)
-  tagline: "Короткое описание эппа (одно предложение)."
+  tagline: "Приложение по популяризации космонавтики: возможность узнать больше о спутниках, межпланетных полетах и жизни космонавтов."
   # if include_content is true, the contents of the content.html include will be
   # added right above the generated item list, if present
   include_content: true
