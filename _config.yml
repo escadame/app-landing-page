@@ -1,6 +1,7 @@
 # general configuration
 url: http://spacewod.com
 baseurl: ''
+
 # app configuration
 app:
   # an avatar or logo (optional)
